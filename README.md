@@ -2,6 +2,8 @@
 
 A Windows application that captures audio from any input device and streams it in real-time using the SRT (Secure Reliable Transport) protocol. Perfect for streaming audio to OBS Studio or other media applications with low latency.
 
+![Language](https://img.shields.io/badge/language-Python-blue.svg)
+
 ## Overview
 
 **Audio to Stream** provides a simple GUI to:
@@ -22,6 +24,8 @@ The application uses FFmpeg for encoding and streaming, with SRT protocol ensuri
 - 💾 **Persistent Settings**: Automatically saves your configuration
 - 🎨 **Dark Theme UI**: Easy on the eyes during long streaming sessions
 - 📈 **Live Statistics**: View connection status, bitrate, and streaming duration
+
+![afbeelding](https://i.gyazo.com/e4ff544f6410ac24b4294869213dfe40.png)
 
 ## Requirements
 
@@ -179,3 +183,4 @@ For issues, questions, or contributions, please visit the project repository on 
 ---
 
 **Note**: Ensure FFmpeg is available either bundled with the application or installed in your system PATH.
+
