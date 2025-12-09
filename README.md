@@ -23,11 +23,16 @@ The application uses FFmpeg for encoding and streaming, with SRT protocol ensuri
 - 🎨 **Dark Theme UI**: Easy on the eyes during long streaming sessions
 - 📈 **Live Statistics**: View connection status, bitrate, and streaming duration
 
+![afbeelding](https://i.gyazo.com/e4ff544f6410ac24b4294869213dfe40.png)
+
 ## Requirements
 
 - Windows OS
 - FFmpeg (bundled with the executable or available in PATH)
 - Audio input device
+
+## Build in Python v3.10.10
+![Language](https://img.shields.io/badge/language-Python-blue.svg)
 
 ## Usage
 
