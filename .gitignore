@@ -1,0 +1,13 @@
+build/
+dist/
+env/
+ffmpeg/
+__pycache__/
+*.spec
+*.psd
+*.log
+*.mp3
+*.exe
+*.bak
+settings.ini
+version_info.txt
